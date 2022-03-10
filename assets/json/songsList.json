@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "language": "Hindi",
+    "title": "Aarambh",
+    "artist": "Piyush Mishra",
+    "img": "assets/images/aarambh.jpeg"
+  },
+  {
+    "id": 1,
+    "language": "Hindi",
+    "title": "Ud-daa Punjab",
+    "artist": "Vishal Dadlani, Amit Trivedi",
+    "img": "assets/images/udtaPunjab.jpeg"
+  },
+  {
+    "id": 2,
+    "language": "English",
+    "title": "Halo",
+    "artist": "Beyounce",
+    "img": "assets/images/halo.jpeg"
+  },
+  {
+    "id": 3,
+    "language": "English",
+    "title": "Counting Stars",
+    "artist": "OneRepublic",
+    "img": "assets/images/countingStars.jpeg"
+  }
+]
